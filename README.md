@@ -1,6 +1,9 @@
+
+
 ## 🍓about me 
 
 i design and code cool stuffs.
 
-## 🏐projects
-### 1. ConnectPass- 
+## 🏐my works
+### 1. ConnectPass- a WiFi captive portal with ad monetization
+https://connect-pass.vercel.app/
